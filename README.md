@@ -1,2 +1,2 @@
-# ctf
+# CTF
 Coin Traded Funds
